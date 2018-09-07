@@ -1,4 +1,5 @@
-# SON OF A ****
+#  totaly normal header
+
 <<<<<<< HEAD
 eiei ron
 
